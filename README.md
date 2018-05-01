@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+**Index.html** work offline. All dependences are in js/ css/ and image/ folders.
 
 # Project Goals
 
